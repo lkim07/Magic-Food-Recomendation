@@ -1,1 +1,1 @@
-# Movie-streaming-app-with-AI-powered-movie-recommendations
+# AI-powered-Tea-Recommendation-App

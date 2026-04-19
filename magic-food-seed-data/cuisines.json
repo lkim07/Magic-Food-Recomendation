@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "69dac27e65ac6a5cb36ff6ce"
+  },
+  "cuisine_id": 1,
+  "cuisine_name": "Malaysian"
+},
+{
+  "_id": {
+    "$oid": "69dac27e65ac6a5cb36ff6cf"
+  },
+  "cuisine_id": 2,
+  "cuisine_name": "Indonesian"
+},
+{
+  "_id": {
+    "$oid": "69dac27e65ac6a5cb36ff6d0"
+  },
+  "cuisine_id": 3,
+  "cuisine_name": "Indian"
+},
+{
+  "_id": {
+    "$oid": "69dac27e65ac6a5cb36ff6d1"
+  },
+  "cuisine_id": 4,
+  "cuisine_name": "Filiphino"
+},
+{
+  "_id": {
+    "$oid": "69dac27e65ac6a5cb36ff6d2"
+  },
+  "cuisine_id": 5,
+  "cuisine_name": "Thai"
+},
+{
+  "_id": {
+    "$oid": "69dac27e65ac6a5cb36ff6d3"
+  },
+  "cuisine_id": 6,
+  "cuisine_name": "Chinese"
+},
+{
+  "_id": {
+    "$oid": "69dac27e65ac6a5cb36ff6d4"
+  },
+  "cuisine_id": 7,
+  "cuisine_name": "Parsi"
+},
+{
+  "_id": {
+    "$oid": "69dac27e65ac6a5cb36ff6d5"
+  },
+  "cuisine_id": 8,
+  "cuisine_name": "Taiwanese"
+},
+{
+  "_id": {
+    "$oid": "69dac27e65ac6a5cb36ff6d6"
+  },
+  "cuisine_id": 9,
+  "cuisine_name": "Italian"
+}]

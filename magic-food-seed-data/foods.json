@@ -1,0 +1,167 @@
+[
+  {
+    "imdb_id": "fd0001",
+    "title": "Nasi Lemak",
+    "image_path": "https://foreignfork.com/wp-content/uploads/2025/10/Nasi-Lemak-Feature-Image.jpg",
+    "youtube_id": "VbTle9T6fDk",
+    "genre": [
+      { "genre_id": 1, "genre_name": "Malaysian" }
+    ],
+    "admin_review": "Rich coconut rice with sambal—very satisfying.",
+    "ranking": { "ranking_value": 1, "ranking_name": "Excellent" }
+  },
+  {
+    "imdb_id": "fd0002",
+    "title": "Rendang",
+    "image_path": "https://www.chilipeppermadness.com/wp-content/uploads/2024/02/Rendang-Recipe-SQ.jpg",
+    "youtube_id": "l76CNoIYFkQ",
+    "genre": [
+      { "genre_id": 2, "genre_name": "Indonesian" }
+    ],
+    "admin_review": "Deep, slow-cooked flavors with tender beef.",
+    "ranking": { "ranking_value": 1, "ranking_name": "Excellent" }
+  },
+  {
+    "imdb_id": "fd0003",
+    "title": "Butter Chicken",
+    "image_path": "https://www.giallozafferano.com/images/349-34900/butter-chicken_1200x800.jpg",
+    "youtube_id": "a03U45jFxOI",
+    "genre": [
+      { "genre_id": 3, "genre_name": "Indian" }
+    ],
+    "admin_review": "Creamy and comforting classic curry.",
+    "ranking": { "ranking_value": 2, "ranking_name": "Good" }
+  },
+  {
+    "imdb_id": "fd0004",
+    "title": "Adobo",
+    "image_path": "https://whisperofyum.com/wp-content/uploads/2020/12/filipino-pork-adobo.jpg",
+    "youtube_id": "WloIceiE7GU",
+    "genre": [
+      { "genre_id": 4, "genre_name": "Filiphino" }
+    ],
+    "admin_review": "Savory and tangy, very home-style dish.",
+    "ranking": { "ranking_value": 2, "ranking_name": "Good" }
+  },
+  {
+    "imdb_id": "fd0005",
+    "title": "Pad Thai",
+    "image_path": "https://thai-foodie.com/wp-content/uploads/2025/09/pad-thai-chicken-plated-fork.jpg",
+    "youtube_id": "F86GfZIph8o",
+    "genre": [
+      { "genre_id": 5, "genre_name": "Thai" }
+    ],
+    "admin_review": "Balanced sweet, sour, and salty flavors.",
+    "ranking": { "ranking_value": 1, "ranking_name": "Excellent" }
+  },
+  {
+    "imdb_id": "fd0006",
+    "title": "Kung Pao Chicken",
+    "image_path": "https://www.closetcooking.com/wp-content/uploads/2012/01/Kung-Pao-Chicken-1200-0859.jpg",
+    "youtube_id": "_QWXjebXiWk",
+    "genre": [
+      { "genre_id": 6, "genre_name": "Chinese" }
+    ],
+    "admin_review": "Spicy with a great crunch from peanuts.",
+    "ranking": { "ranking_value": 2, "ranking_name": "Good" }
+  },
+  {
+    "imdb_id": "fd0007",
+    "title": "Dhansak",
+    "image_path": "https://glebekitchen.com/wp-content/uploads/2017/03/restaurantdhansakbowlfront.jpg",
+    "youtube_id": "GpoHHxxLQPo",
+    "genre": [
+      { "genre_id": 7, "genre_name": "Parsi" }
+    ],
+    "admin_review": "Unique blend of lentils and meat.",
+    "ranking": { "ranking_value": 3, "ranking_name": "Okay" }
+  },
+  {
+    "imdb_id": "fd0008",
+    "title": "Beef Noodle Soup",
+    "image_path": "https://thewoksoflife.com/wp-content/uploads/2018/04/taiwanese-beef-noodle-soup-instant-pot-9.jpg",
+    "youtube_id": "IK1m8rnjk2w",
+    "genre": [
+      { "genre_id": 8, "genre_name": "Taiwanese" }
+    ],
+    "admin_review": "Hearty broth with tender beef.",
+    "ranking": { "ranking_value": 1, "ranking_name": "Excellent" }
+  },
+  {
+    "imdb_id": "fd0009",
+    "title": "Margherita Pizza",
+    "image_path": "https://www.vindulge.com/wp-content/uploads/2022/05/Margherita-Pizza.jpg",
+    "youtube_id": "vcfNpDtVqOw",
+    "genre": [
+      { "genre_id": 9, "genre_name": "Italian" }
+    ],
+    "admin_review": "Simple ingredients done perfectly.",
+    "ranking": { "ranking_value": 1, "ranking_name": "Excellent" }
+  },
+  {
+    "imdb_id": "fd0010",
+    "title": "Laksa",
+    "image_path": "https://staging2.glebekitchen.com/wp-content/uploads/2018/09/laksafront-1.jpg",
+    "youtube_id": "MHDfep9J7A0&t=16s",
+    "genre": [
+      { "genre_id": 1, "genre_name": "Malaysian" }
+    ],
+    "admin_review": "Spicy coconut soup packed with flavor.",
+    "ranking": { "ranking_value": 2, "ranking_name": "Good" }
+  },
+  {
+    "imdb_id": "fd0011",
+    "title": "Satay",
+    "image_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0UQX9J2HaMttG0JCQqMMKA9tzb5Xwed7Wg&s",
+    "youtube_id": "V0SuUlnfCKg",
+    "genre": [
+      { "genre_id": 2, "genre_name": "Indonesian" }
+    ],
+    "admin_review": "Grilled skewers with rich peanut sauce.",
+    "ranking": { "ranking_value": 2, "ranking_name": "Good" }
+  },
+  {
+    "imdb_id": "fd0012",
+    "title": "Biryani",
+    "image_path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1n4nzKGysMtjBOVl3IUCwvu9As3pauGBdA&s",
+    "youtube_id": "SOUvvDTBdic",
+    "genre": [
+      { "genre_id": 3, "genre_name": "Indian" }
+    ],
+    "admin_review": "Aromatic rice dish with layered spices.",
+    "ranking": { "ranking_value": 1, "ranking_name": "Excellent" }
+  },
+  {
+    "imdb_id": "fd0013",
+    "title": "Tom Yum Soup",
+    "image_path": "https://www.recipetineats.com/tachyon/2019/09/Tom-Yum-soup_2.jpg",
+    "youtube_id": "um1tcbA-354",
+    "genre": [
+      { "genre_id": 5, "genre_name": "Thai" }
+    ],
+    "admin_review": "Sharp, sour, and spicy—very refreshing.",
+    "ranking": { "ranking_value": 2, "ranking_name": "Good" }
+  },
+  {
+    "imdb_id": "fd0014",
+    "title": "Fried Rice",
+    "image_path": "https://rasamalaysia.com/wp-content/uploads/2019/06/chinese-fried-rice-thumb.jpg",
+    "youtube_id": "zZNhVv7fmSE",
+    "genre": [
+      { "genre_id": 6, "genre_name": "Chinese" }
+    ],
+    "admin_review": "Simple but always reliable comfort food.",
+    "ranking": { "ranking_value": 3, "ranking_name": "Okay" }
+  },
+  {
+    "imdb_id": "fd0015",
+    "title": "Risotto",
+    "image_path": "https://images.food52.com/vJrjXFKn8F6lmMbpapaUFJb_et4=/d5660326-659c-4426-9f10-e3f16f70cc8a--Charred_Lemon_Risotto_2.jpg",
+    "youtube_id": "b5kid9T8mrQ",
+    "genre": [
+      { "genre_id": 9, "genre_name": "Italian" }
+    ],
+    "admin_review": "Creamy texture with rich depth.",
+    "ranking": { "ranking_value": 2, "ranking_name": "Good" }
+  }
+]
